@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:16:21 PM On 12/6/2020
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : PCB Document [IrrigationStation_V1R1.PcbDoc]
+   Generated File[IrrigationStation_V1R1.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:16:27 PM On 12/6/2020

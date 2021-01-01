@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: C:\Users\Matt Belle\Desktop\Altium Projects\GSM_Valve_Arduino_Nano_V1R1\PCB.PcbDoc
+RuleKind=Clearance|RuleName=Polygon Pour|Scope=Board|Minimum=39.37
+RuleKind=Width|RuleName=Schematic Width Constraint_4|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=20.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Schematic Width Constraint|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Schematic Width Constraint_1|Scope=Board|Minimum=10.00

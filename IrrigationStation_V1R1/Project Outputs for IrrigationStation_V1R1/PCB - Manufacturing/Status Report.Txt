@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [IrrigationStation_V1R1.PcbDoc]
+   Generated File[IrrigationStation_V1R1-RoundHoles.TXT]
+   Generated File[IrrigationStation_V1R1-SlotHoles.TXT]
+   Generated File[IrrigationStation_V1R1.LDP]
+   Generated File[IrrigationStation_V1R1.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:56:52 PM On 12/6/2020

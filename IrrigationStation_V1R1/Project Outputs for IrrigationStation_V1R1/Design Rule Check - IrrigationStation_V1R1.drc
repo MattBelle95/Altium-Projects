@@ -1,0 +1,59 @@
+Protel Design System Design Rule Check
+PCB File : D:\Work\Personal\Altium Projects\IrrigationStation_V1R1\IrrigationStation_V1R1.PcbDoc
+Date     : 11/30/2020
+Time     : 10:36:25 AM
+
+Processing Rule : Clearance Constraint (Gap=1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.8mm) (Max=1.2mm) (Preferred=0.8mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=4mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.113mm < 0.254mm) Between Track (57.21mm,13.478mm)(64.71mm,13.478mm) on Bottom Overlay And Pad U1-20(60.865mm,14.518mm) on Multi-Layer [Bottom Overlay] to [Bottom Solder] clearance [0.113mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.033mm < 0.254mm) Between Track (57.21mm,15.478mm)(64.71mm,15.478mm) on Bottom Overlay And Pad U1-20(60.865mm,14.518mm) on Multi-Layer [Bottom Overlay] to [Bottom Solder] clearance [0.033mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.113mm < 0.254mm) Between Track (57.21mm,18.558mm)(64.71mm,18.558mm) on Bottom Overlay And Pad U1-22(60.865mm,19.598mm) on Multi-Layer [Bottom Overlay] to [Bottom Solder] clearance [0.113mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.033mm < 0.254mm) Between Track (57.21mm,20.558mm)(64.71mm,20.558mm) on Bottom Overlay And Pad U1-22(60.865mm,19.598mm) on Multi-Layer [Bottom Overlay] to [Bottom Solder] clearance [0.033mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.113mm < 0.254mm) Between Track (57.21mm,23.638mm)(64.71mm,23.638mm) on Bottom Overlay And Pad U1-24(60.865mm,24.678mm) on Multi-Layer [Bottom Overlay] to [Bottom Solder] clearance [0.113mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.033mm < 0.254mm) Between Track (57.21mm,25.638mm)(64.71mm,25.638mm) on Bottom Overlay And Pad U1-24(60.865mm,24.678mm) on Multi-Layer [Bottom Overlay] to [Bottom Solder] clearance [0.033mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.113mm < 0.254mm) Between Track (57.21mm,33.798mm)(64.71mm,33.798mm) on Bottom Overlay And Pad U1-28(60.865mm,34.838mm) on Multi-Layer [Bottom Overlay] to [Bottom Solder] clearance [0.113mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.033mm < 0.254mm) Between Track (57.21mm,35.798mm)(64.71mm,35.798mm) on Bottom Overlay And Pad U1-28(60.865mm,34.838mm) on Multi-Layer [Bottom Overlay] to [Bottom Solder] clearance [0.033mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.065mm < 0.254mm) Between Track (57.21mm,40.91mm)(64.71mm,40.91mm) on Bottom Overlay And Pad U1-30(60.865mm,39.918mm) on Multi-Layer [Bottom Overlay] to [Bottom Solder] clearance [0.065mm]
+Rule Violations :9
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (0.077mm < 0.254mm) Between Text "Q2" (72.212mm,23.317mm) on Top Overlay And Arc (73.152mm,20.32mm) on Top Overlay Silk Text to Silk Clearance [0.077mm]
+   Violation between Silk To Silk Clearance Constraint: (0.114mm < 0.254mm) Between Text "P11" (29.662mm,19.866mm) on Top Overlay And Text "5V" (29.516mm,21.758mm) on Top Overlay Silk Text to Silk Clearance [0.114mm]
+   Violation between Silk To Silk Clearance Constraint: (0.06mm < 0.254mm) Between Text "P12" (29.766mm,6.254mm) on Top Overlay And Text "GND" (29.598mm,8.092mm) on Top Overlay Silk Text to Silk Clearance [0.06mm]
+Rule Violations :3
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 12
+Time Elapsed        : 00:00:01
