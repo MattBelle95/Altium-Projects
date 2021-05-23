@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for IrrigationStation_V2R1
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -92,6 +92,54 @@ DocumentUniqueId=
 DocumentPath=Project Outputs for IrrigationStation_V2R1\Design Rule Check - IrrigationStation_V2R1.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for IrrigationStation_V2R1\PCB - Manufacturing\IrrigationStation_V2R1-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for IrrigationStation_V2R1\PCB - Manufacturing\IrrigationStation_V2R1-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for IrrigationStation_V2R1\PCB - Manufacturing\IrrigationStation_V2R1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for IrrigationStation_V2R1\PCB - Manufacturing\IrrigationStation_V2R1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for IrrigationStation_V2R1\PCB - Manufacturing\IrrigationStation_V2R1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for IrrigationStation_V2R1\PCB - Manufacturing\IrrigationStation_V2R1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for IrrigationStation_V2R1\PCB - Manufacturing\IrrigationStation_V2R1.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for IrrigationStation_V2R1\PCB - Manufacturing\IrrigationStation_V2R1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for IrrigationStation_V2R1\PCB - Manufacturing\IrrigationStation_V2R1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for IrrigationStation_V2R1\PCB - Manufacturing\IrrigationStation_V2R1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for IrrigationStation_V2R1\PCB - Manufacturing\IrrigationStation_V2R1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for IrrigationStation_V2R1\STEP\IrrigationStation_V2R1.step
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -138,7 +186,7 @@ SCH_HasExpandLogicalToPhysicalSheets=0
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for IrrigationStation_V2R1
 
 [OutputGroup1]
 Name=Netlist Outputs
