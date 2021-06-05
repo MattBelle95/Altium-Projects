@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: IrrigationStation_V2R1.GBR   5/28/2021  4:39:28 AM
+Gerber File Extension Report For: IrrigationStation_V2R1.GBR   6/5/2021  12:02:11 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -9,5 +9,6 @@ Layer Extension     Layer Description
 .GBL                Bottom Layer                            
 .GTO                Top Overlay                             
 .GBS                Bottom Solder                           
+.GBO                Bottom Overlay                          
 .GKO                Keep-Out Layer                          
 ------------------------------------------------------------------------------------------

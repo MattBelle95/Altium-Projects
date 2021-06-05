@@ -59,7 +59,7 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D17
+    D23
     D34
     D35
     D36
@@ -77,6 +77,18 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Overlay
+      File : IrrigationStation_V2R1.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D30
+    D48
+*************************************************************
+
+*************************************************************
 Generating : Keep-Out Layer
       File : IrrigationStation_V2R1.GKO
 
@@ -84,6 +96,6 @@ Generating : Keep-Out Layer
 
 
 Used DCodes :
-    D31
+    D33
 *************************************************************
 
